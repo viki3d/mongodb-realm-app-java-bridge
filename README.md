@@ -1,2 +1,2 @@
-# mongodb-realm-app-bridge-with-java
+# mongodb-realm-app-java-bridge
 Descr
